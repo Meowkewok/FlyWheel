@@ -11,3 +11,8 @@ YT video: https://www.youtube.com/watch?v=SdHUSAQd6hc&ab_channel=WellDoneTips
 I think Ill be able to make this for a little less than 150, which is perfect!
 
 **Total time spent: 2h**
+
+# June 10th: Research!
+I looked at various 3d models and stuff, and I think the best option may be to make either a TPU tire, or to make a mold for silicone. Silicone seems to be the grippier material, so I think that seems like a better option.
+
+**Total time spent: 4h**
