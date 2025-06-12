@@ -16,3 +16,12 @@ I think Ill be able to make this for a little less than 150, which is perfect!
 I looked at various 3d models and stuff, and I think the best option may be to make either a TPU tire, or to make a mold for silicone. Silicone seems to be the grippier material, so I think that seems like a better option.
 
 **Total time spent: 4h**
+
+# June 11th: Beginning of CAD!
+I started the CAD model, especially the wheel, and it looks really good so far!  
+![FlyWheel Wheel Airless v3](https://github.com/user-attachments/assets/81c54e82-c400-4c3c-9df0-c404ab7bcc6e)  
+
+This is the whole assembly right now:  
+![FlyWheel Assembly v2](https://github.com/user-attachments/assets/36f56860-156c-4144-a6ba-4eab2ba6c5a0)
+
+**Total time spent: 6h**
