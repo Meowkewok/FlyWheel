@@ -25,3 +25,10 @@ This is the whole assembly right now:
 ![FlyWheel Assembly v2](https://github.com/user-attachments/assets/36f56860-156c-4144-a6ba-4eab2ba6c5a0)
 
 **Total time spent: 6h**
+
+# June 12th: More CAD!
+I made the footpads house the electronics, as well as made a cover for the electronics. I also colored in the model, so now it looks way better!  
+![FlyWheel Assembly v3](https://github.com/user-attachments/assets/77a8e9fc-a75b-4780-8702-0441ef146d9b)  
+
+
+**Total time spent: 8h**
