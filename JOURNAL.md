@@ -26,9 +26,13 @@ This is the whole assembly right now:
 
 **Total time spent: 6h**
 
-# June 12th: More CAD!
+# June 12th: More CAD, and made a logo!
 I made the footpads house the electronics, as well as made a cover for the electronics. I also colored in the model, so now it looks way better!  
-![FlyWheel Assembly v3](https://github.com/user-attachments/assets/77a8e9fc-a75b-4780-8702-0441ef146d9b)  
+![FlyWheel Assembly v3](https://github.com/user-attachments/assets/77a8e9fc-a75b-4780-8702-0441ef146d9b)    
 
+I also made a logo in Figma, heres how it is so far:  
+![Flywheel Logo](https://github.com/user-attachments/assets/eb77b7c5-de41-4561-bc79-a492e3e40869)   
 
-**Total time spent: 8h**
+Im also starting to work on a BOM: https://docs.google.com/spreadsheets/d/1DjflP9YCtFkJdnlUvsTnhEtVfswnPUGQap1I6gtcne4/edit?usp=sharing    
+
+**Total time spent: 9h**
