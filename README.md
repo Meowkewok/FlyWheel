@@ -1,6 +1,6 @@
 # FlyWheel
 Designed by @Meowkewok  
-A onewheel style motor-board made from 3d printed parts and a hoverboard!  
+A onewheel style motor-board made from 3d printed parts and a hoverboard! It also uses an airless tire!  
 Overall, this project should be less than $150!  
 
 **BOM:** https://docs.google.com/spreadsheets/d/1DjflP9YCtFkJdnlUvsTnhEtVfswnPUGQap1I6gtcne4/edit?usp=sharing  
