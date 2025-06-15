@@ -47,8 +47,11 @@ Total seems to be about $130, but it may be less since the hoverboard itself (de
 
 For CAD, I added ridges to the tops of the footpads to add grip.  
 I tried to do simulations in fusion, but it didnt really work since idk what im doing.
-![FlyWheel Wheel Airless v12](https://github.com/user-attachments/assets/76779ef3-fad7-411f-beba-feeb4700554f)
+![FlyWheel Wheel Airless v12](https://github.com/user-attachments/assets/76779ef3-fad7-411f-beba-feeb4700554f)  
 
+I also made a mold for the silicone tire, and bolts to hold it together  
+![Tire Mold Assembly v1](https://github.com/user-attachments/assets/2d919f78-c0ef-4037-9642-8d6d292a7ef9)  
+Theoretically, since the mold is chamfered, it should be pretty easy to pour in the silicone. Since the mold seperates into halves, it should also be easy to remove the tire when done, and the bolts serve as a way to align the two halves of the mold. Definitely going to need a ton of mold release!  
 
-**Total time spent: 11h**
+**Total time spent: 12h**
 
