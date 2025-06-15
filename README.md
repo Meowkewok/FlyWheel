@@ -1,1 +1,12 @@
 # FlyWheel
+Designed by @Meowkewok
+A onewheel style motor-board made from 3d printed parts and a hoverboard!  
+Overall, this project should be less than $150!  
+
+**BOM:** https://docs.google.com/spreadsheets/d/1DjflP9YCtFkJdnlUvsTnhEtVfswnPUGQap1I6gtcne4/edit?usp=sharing  
+**CAD:** https://a360.co/43ZN17t  
+Read the journal for development information!  
+
+All CAD was made using Fusion360.  
+This project was made for Hack Club's Highway! Check it out here: https://highway.hackclub.com/   
+Thank you to Hack Club, @Acon, @alexren, and the rest of the Highway team!
