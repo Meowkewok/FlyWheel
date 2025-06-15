@@ -46,6 +46,9 @@ I think I found a good option for the hoverboard from marketplace! It also seems
 Total seems to be about $130, but it may be less since the hoverboard itself (depending on what I settle on) may be cheaper than my estimated $50, that is just the max I am willing to spend on it.
 
 For CAD, I added ridges to the tops of the footpads to add grip.  
+I tried to do simulations in fusion, but it didnt really work since idk what im doing.
+![FlyWheel Wheel Airless v12](https://github.com/user-attachments/assets/76779ef3-fad7-411f-beba-feeb4700554f)
 
-**Total time spent: 10h**
+
+**Total time spent: 11h**
 
